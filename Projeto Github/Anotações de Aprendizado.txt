@@ -1,0 +1,5 @@
+1 - Criei o repositório no Github
+2 - Utilizei o Git Bush para clonar o repositório na minha máquina
+3 - Criei a pasta Projeto Github e esta anotação
+4 - Utilizei os comandos GIT ADD . / GIT COMMIT -M "ANOTAÇÕES" / GIT PUSH ORIGIN MAIN para atualizar 
+    o repositório direto no github
