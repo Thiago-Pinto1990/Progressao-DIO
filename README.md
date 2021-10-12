@@ -1,2 +1,3 @@
-# Progress-o-DIO
-Repositório para acompanhamento da minha evolução nos estudos.
+# Repositório de Acompanhamento de Evolução
+
+[Link Linkedln](https://www.linkedin.com/in/thiago-pinto-a50403211/)
